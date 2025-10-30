@@ -1,1 +1,2 @@
 # risk-analysis-project
+Risk Analysis Project este o aplicație web care permite utilizatorilor să evalueze și să vizualizeze riscurile de infectare într-un anumit context. Utilizatorii pot introduce date despre scenarii de expunere, iar aplicația calculează probabilitatea de infecție și afișează rezultatele sub formă de grafice interactive. Astfel, utilizatorii pot înțelege mai bine factorii de risc și pot lua decizii informate pentru prevenție.
